@@ -1,4 +1,3 @@
-<img src="vesikalik.jpg" alt="Muhammed Arslan" width="120" align="right">
 
 ## KİŞİSEL BİLGİLER
 
